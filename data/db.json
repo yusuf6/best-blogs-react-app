@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "A great way to get into the blog writing zone is by reading other blogs. That way, you’ll discover what content is already out there, and you can work on refining a new angle or perspective that makes your blog original and worth reading.",
+      "author": "Yusuf",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Seeing as your grand opening is an important part of your marketing strategy, a good amount of thought should go into the type of party/event you want this to be. Do you want it to a casual, family-friendly affair? Are you going for a more upscale/formal feel? Is a more professional atmosphere appropriate? The type of event you throw should have a good flow with the overall feel of your business. For example, you might not want to do a pizza party or barbeque if you are opening an upscale hotel or boutique. On the other hand, a black-tie event is going to seem odd for the grand opening of a toy store. When choosing what you want for your grand opening, be it a red-carpet event, a small ceremony, an open house, or a family-oriented community event, consider what will get your target audience in the door and keep them there.",
+      "author": "Saifee",
+      "id": 2
+    },
+    {
+      "title": "Why Love Sports",
+      "body": "Good for health",
+      "author": "Yusuf",
+      "id": 3
+    }
+  ]
+}
